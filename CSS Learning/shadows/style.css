@@ -1,7 +1,10 @@
-#id{
-
+#text{
+    text-shadow: 10px 10px 15px rgb(28, 202, 208);
 }
 
 .box{
-    
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    box-shadow: -10px -10px 10px rebeccapurple, 10px 10px 10px rebeccapurple;
 }
