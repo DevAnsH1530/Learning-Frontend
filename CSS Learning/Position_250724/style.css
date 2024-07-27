@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+}
+
+.main{
+    position: relative;
+    background-color: aquamarine;
+    height: 2000px;
+    width: 2000px;
+
+}
+
+.bg {
+    height: 100px;
+    width:100px;
+    /* overflow:scroll */
+}
+
+#box1{
+
+    background-color: yellow;
+    position:absolute;
+    left:1px;
+
+
+}
+#box2{
+    background-color: lightcoral;
+    position:absolute;
+    right:1px
+
+    
+}
+#box3{
+    background-color: green;
+    position:absolute;
+    bottom:1px;
+
+    
+}
+#box4{
+    background-color: yellow;
+    position:absolute;
+    bottom:1px;
+    right:1px;
+}
+#box5{
+    background-color: white;
+    position:absolute;
+    top:50%;
+    bottom:50%;
+    left:50%;
+    
+}
